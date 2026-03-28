@@ -1,0 +1,13 @@
+{
+  "name": "dinodice",
+  "version": "1.0.0",
+  "description": "Dino Dice game",
+  "license": "ISC",
+  "author": "Drigo",
+  "type": "module",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "node --use-system-ca index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
