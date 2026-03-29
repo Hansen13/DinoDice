@@ -99,7 +99,7 @@ If the attacker does 1 damage or more, the opponent defending dino can use its s
 
 This will be repeated untill one of the dinos reach 0 hp
 
-Then both players must pick a dino that haven't been used before. the winning player must choose first.
+Then both players must pick a dino that haven't been used before. the winning player must choose first. And they roll a dice to see who goes first.
 
 ### Example game
 
@@ -189,6 +189,8 @@ The battle continues until one dinosaur's hitpoints reach 0!
 | vs Parasaurolophus |          68.6% |
 | vs Pterodactyl     |          32.1% |
 | vs Dimetrodon      |          67.3% |
+
+### Velociraptor
 
 | Name               | Winpercentage |
 | ------------------ | ------------: |
