@@ -1,4 +1,4 @@
-# DINO DICE GANE
+# DINO DICE GAME
 
 ## Dino Stat Sheet
 
