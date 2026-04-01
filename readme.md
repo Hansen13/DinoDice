@@ -78,7 +78,7 @@
 
 ### Game setup
 
-Start by picking 3 dinosaurs.
+Each player picks 3 dinosaurs.
 
 Can be done randomly, by alternating picking one, or picking for your opponent.
 
