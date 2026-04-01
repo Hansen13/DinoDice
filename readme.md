@@ -2,8 +2,6 @@
 
 ## Table of Contents
 
-### Table of Content
-
 - [Dino Stat Sheet](#dino-stat-sheet)
 - [RULES](#rules)
   - [Game setup](#game-setup)
