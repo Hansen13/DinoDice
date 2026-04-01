@@ -26,20 +26,21 @@
 | Evasion       |  1   |
 | Spike         |  0   |
 
-| Brachiosaurus |      Stat       |
-| ------------- | :-------------: |
-| Hitpoints     |       46        |
-| Attack        |        3        |
-| Defence       |        0        |
-| Evasion       |        0        |
-| Spike         |        0        |
-| Ankylosaurus  |      Stat       |
-| ------------- | :-------------: |
-| Hitpoints     |       23        |
-| Attack        |        0        |
-| Defence       |        4        |
-| Evasion       |        0        |
-| Spike         |        2        |
+| Brachiosaurus | Stat |
+| ------------- | :--: |
+| Hitpoints     |  46  |
+| Attack        |  3   |
+| Defence       |  0   |
+| Evasion       |  0   |
+| Spike         |  0   |
+
+| Ankylosaurus | Stat |
+| ------------ | :--: |
+| Hitpoints    |  23  |
+| Attack       |  0   |
+| Defence      |  4   |
+| Evasion      |  0   |
+| Spike        |  2   |
 
 | Triceratops | Stat |
 | ----------- | :--: |
@@ -83,23 +84,47 @@ Can be done randomly, by alternating picking one, or picking for your opponent.
 
 ### How to play
 
-Both players pick a starting dino.
+#### Phase A: The Attack
 
-Roll a dice, highest roll attacks first
+The attacker rolls a d6 and adds the result to their dinosaur’s Base Attack stat.
 
-The player who attacks first starts by rolling the d6 attack dice. Then adds the amount to the attack stat of the dinosaur.
+_Note: Even if the Base Attack is 0, the dice roll still counts as the total attack value._
 
-The opponent player rolls a d4 dice. Then adds the amount to the evasion stat of the dinosaur.
+#### Phase B: Evasion
 
-If the evasion number is **HIGHER** than the attacking number, the opponent evades the attack, and recives 0 damage
+The defender rolls a d4 and adds the result to their dinosaur’s Base Evasion stat.
 
-If the attack goes through opponent rolls a d2, and negates that amount of attack damage. It can negate all the damage, but it cant go negative.
+**Miss:** If the Evasion total is HIGHER than the Attack total, the attack is dodged. The defender takes 0 damage and the turn ends.
 
-If the attacker does 1 damage or more, the opponent defending dino can use its spike attack, it dose a fixed amount of damage. No dice will be rolled. If the attacker kills the opponent, spike damage will not be applied.
+**Hit:** If the Attack total is equal to or higher than the Evasion total, the attack connects.
 
-This will be repeated untill one of the dinos reach 0 hp
+#### Phase C: Mitigation (Damage Reduction)
 
-Then both players must pick a dino that haven't been used before. the winning player must choose first. And they roll a dice to see who goes first.
+If the attack hits, the defender rolls a d2 (1 or 2) to reduce the incoming damage.
+
+Subtract the d2 result from the total Attack value.
+
+_Note: Damage cannot go below 0._
+
+#### Phase D: The "Spike" Counter-Attack
+
+If the defender takes 1 or more damage and survives the hit, they may immediately trigger their Spike Attack.
+
+**Fixed Damage:** Spikes deal a set amount of damage (no dice roll required).
+
+_Note: If the attackers strike reduces the defending dino to 0 hitpoints, the spike attack do not trigger._
+
+#### Phase E: Victory & Next Round
+
+The battle continues until one dinosaur reaches 0 HP.
+
+**The Next Selection:** Players must choose a dinosaur they have not used yet.
+
+**The Winner's Penalty:** The player who won the previous round must choose their next dino first.
+
+Both players must roll a new d6 to determine who takes the first turn in the new round.
+
+_Note: the first player to get 2 victories has won the game._
 
 ### Example game
 
