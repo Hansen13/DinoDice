@@ -332,3 +332,11 @@ The battle continues until one dinosaur's hitpoints reach 0!
 | 7.   | Dimetrodon      |         57.67% |
 | 8.   | Parasaurolophus |         56.79% |
 | 9.   | Stegosaurus     |         55.58% |
+
+## Dinos to be used in the game
+
+Here is the dinos I have used to play the game
+
+[Flexi Dinos - by Andreas JoskaSutanto](https://www.printables.com/@AndreasJoskaSutanto/models?search=flexidino)
+
+Dino stat cards is in the making for 3d printing...
