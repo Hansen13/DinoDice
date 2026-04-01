@@ -74,7 +74,7 @@
 | Evasion    |  3   |
 | Spike      |  0   |
 
-## ----- RULES -----
+## RULES
 
 ### Game setup
 
@@ -200,7 +200,7 @@ Current Status:
 
 The battle continues until one dinosaur's hitpoints reach 0!
 
-## === DETAILED MATCHUP STATS ===
+## DETAILED MATCHUP STATS
 
 ### STEGOSAURUS
 
