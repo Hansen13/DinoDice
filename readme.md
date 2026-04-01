@@ -1,5 +1,20 @@
 # DINO DICE GAME
 
+## Table of Contents
+
+### Table of Content
+
+- [Dino Stat Sheet](#dino-stat-sheet)
+- [RULES](#rules)
+  - [Game setup](#game-setup)
+  - [How to play](#how-to-play)
+  - [Example game](#example-game)
+- [Detailed matchup stats](#detailed-matchup-stats)
+- [Average winrate pr dino](#average-winrate-pr-dino)
+- [Dino 3d printable resources](#dino-3d-printable-resources)
+
+---
+
 ## Dino Stat Sheet
 
 | Stegosaurus | Stat |
@@ -200,7 +215,7 @@ Current Status:
 
 The battle continues until one dinosaur's hitpoints reach 0!
 
-## DETAILED MATCHUP STATS
+## Detailed matchup stats
 
 ### STEGOSAURUS
 
@@ -319,7 +334,7 @@ The battle continues until one dinosaur's hitpoints reach 0!
 | vs Parasaurolophus |          70.5% |
 | vs Pterodactyl     |          65.5% |
 
-## GLOBAL STANDINGS (Average Win Rate)
+## Average winrate pr dino
 
 | Rank | Name            | Win percentage |
 | ---- | --------------- | -------------: |
@@ -333,7 +348,7 @@ The battle continues until one dinosaur's hitpoints reach 0!
 | 8.   | Parasaurolophus |         56.79% |
 | 9.   | Stegosaurus     |         55.58% |
 
-## Dinos to be used in the game
+## Dino 3d printable resources
 
 Here is the dinos I have used to play the game
 
